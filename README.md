@@ -56,7 +56,8 @@ Install Python if not already installed.
 
 --> Clone this repository:
 
-git clone https://github.com/Ritu8701raj/n-queens-solver.git cd n-queens-solver
+git clone https://github.com/Ritu8701raj/n-queens-solver.git 
+cd n-queens-solver
 
 --> Run the script:
 
